@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **Ecommerce Application**
 
 - 👨‍💻 All of my projects are available at [https://portfoliothefstack.onrender.com/](https://portfoliothefstack.onrender.com/)
 
