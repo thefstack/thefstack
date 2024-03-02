@@ -7,10 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-
-- 👨‍💻 All of my projects are available at [https://portfoliothefstack.onrender.com/](https://portfoliothefstack.onrender.com/)
-
-- 💬 Ask me about **node, react, mongodb**
+- 💬 Ask me about **javascript, node, react, mongodb**
 
 - 📫 How to reach me **rajsharmahwh19@gmail.com**
 
