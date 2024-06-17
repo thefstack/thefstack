@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajsharmahwh19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AkQGetc6eXfF7IdifbThFx5TilNe-0BW/view?usp=sharing](https://drive.google.com/file/d/1AkQGetc6eXfF7IdifbThFx5TilNe-0BW/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19OJ38rSix14FYs31wBEptu2x8yHuJ31o/view">Resume Link <a/>
 
 - ⚡ Fun fact **I'm always excited to learn more!**
 
