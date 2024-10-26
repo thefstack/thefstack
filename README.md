@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **improving my skills**
-
-- 🌱 I’m currently learning **Frameworks**
+- 🔭 I’m currently working as an intern at **Ivy Professional School**
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 💬 Ask me about **javascript, node, react, mongodb**
+- 💬 Ask me about **Javascript, NodeJs, reactJs, NextJs, mongodb**
 
 - 📫 How to reach me **rajsharmahwh19@gmail.com**
 
@@ -39,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
