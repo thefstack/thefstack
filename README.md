@@ -39,10 +39,15 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=thefstack&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="200" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thefstack" alt="GitHub Trophy" width="100%" />
   <br />
-  <img src="https://raw.githubusercontent.com/thefstack/thefstack/main/assets/contributions-2025.png" alt="GitHub Contribution Graph" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefstack&layout=compact&theme=tokyonight&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefstack&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="100%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefstack&show_icons=true&locale=en" alt="GitHub Stats" width="100%" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefstack" alt="GitHub Streak" width="100%" />
+</div>
 
 ---
 
