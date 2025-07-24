@@ -1,4 +1,4 @@
-<div style="max-width: 900px; margin: auto; padding: 1rem;">
+<div style="max-width: 900px; margin: auto; padding: 1rem; background-color: #e6f0ff;">
 
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
@@ -17,7 +17,7 @@
 <hr/>
 
 <h3 align="left">👥 Connect with me:</h3>
-<p>
+<p style="display:flex; gap:15px; align-items:center;">
   <a href="https://linkedin.com/in/thefstack" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
   <a href="https://instagram.com/thefstack" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
   <a href="https://github.com/thefstack" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" /></a>
@@ -42,7 +42,6 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; align-items: start; justify-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefstack&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefstack" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
 
 </div>
 
