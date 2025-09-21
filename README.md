@@ -28,7 +28,7 @@
 
 <h3 align="left">🚀 Projects:</h3>
 <ul>
-  <li><b>Meera Clinic</b> – AI-Powered Appointment Booking App. it uses chatbot and audio call for booking appointment.</li>
+  <li><b>Meera Clinic</b> – AI-Powered Appointment Booking App. it uses chatbot and audio call for booking appointment. – <a href="https://meera-clinic.thefstack.com/chat" target="_blank">Live Demo</a></li>
   <li><b>AI Career Coach</b> – Real-time resume feedback & job guidance using OpenAI + Next.js – <a href="https://prepai.ivyproschool.com/ai/interview/ai-career-coach" target="_blank">Live Demo</a></li>
   <li><b>Mock Interview AI</b> – Realtime speech-to-speech mock interviews – <a href="https://prepai.ivyproschool.com/ai/interview/" target="_blank">Live Demo</a></li>
   <li><b>iPhone 15 Clone</b> – Interactive 3D website with Three.js, GSAP – <a href="https://iphone15.thefstack.com" target="_blank">Live Demo</a></li>
