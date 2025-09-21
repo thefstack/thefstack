@@ -28,11 +28,12 @@
 
 <h3 align="left">🚀 Projects:</h3>
 <ul>
-  <li><b>Astrology Service Backend</b> – Freelance project built with Node.js and Express.js. Implemented Twilio for messaging, Firebase Cloud Messaging for real-time notifications, and Firebase Storage for media handling.</li>
+  <li><b>Meera Clinic</b> – AI-Powered Appointment Booking App. it uses chatbot and audio call for booking appointment.</li>
   <li><b>AI Career Coach</b> – Real-time resume feedback & job guidance using OpenAI + Next.js – <a href="https://prepai.ivyproschool.com/ai/interview/ai-career-coach" target="_blank">Live Demo</a></li>
   <li><b>Mock Interview AI</b> – Realtime speech-to-speech mock interviews – <a href="https://prepai.ivyproschool.com/ai/interview/" target="_blank">Live Demo</a></li>
   <li><b>iPhone 15 Clone</b> – Interactive 3D website with Three.js, GSAP – <a href="https://iphone15.thefstack.com" target="_blank">Live Demo</a></li>
   <li><b>PDF Splitter</b> – Secure client-side file processing in React – <a href="https://pdf-splitter.thefstack.com/" target="_blank">Live Demo</a></li>
+  <li><b>Astrology Service Backend</b> – Freelance project built with Node.js and Express.js. Implemented Twilio for messaging, Firebase Cloud Messaging for real-time notifications, and Firebase Storage for media handling.</li>
 </ul>
 
 <hr/>
