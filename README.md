@@ -36,16 +36,6 @@
   <li><b>Astrology Service Backend</b> – Freelance project built with Node.js and Express.js. Implemented Twilio for messaging, Firebase Cloud Messaging for real-time notifications, and Firebase Storage for media handling.</li>
 </ul>
 
-<hr/>
-
-<h3 align="center">📈 GitHub Stats</h3>
- <img src="https://github-profile-trophy.vercel.app/?username=thefstack" alt="GitHub Trophy" style="max-width: 100%; height: auto;" />
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; align-items: start; justify-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefstack&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" style="max-width: 100%; height: auto;" />
-
-</div>
-
 
 
 <hr/>
