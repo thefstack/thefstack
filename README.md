@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack & GenAI Developer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Full+Stack+%26+GenAI+Developer;OpenAI+%7C+xAI+Grok+%7C+Next.js+15;Building+production+AI+apps;Available+for+freelance+%26+remote+work" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://thefstack.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-thefstack.com-blue?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -44,33 +48,20 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,postgresql,tailwind,python,git,vercel,vscode&theme=dark&perline=7" />
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+<br/>
 
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & GenAI**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-10A37F?style=flat-square&logo=openai&logoColor=white)
-![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=flat-square&logo=x&logoColor=white)
-
-**Tools & Deployment**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Realtime_API-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/xAI_Grok-000000?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+</p>
 
 ---
 
@@ -89,12 +80,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefstack&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefstack&theme=tokyonight&hide_border=true" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefstack&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thefstack&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
